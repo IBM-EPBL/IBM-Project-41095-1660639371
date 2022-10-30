@@ -26,12 +26,7 @@ Problem Statement :
 
         3.Common people lack knowledge of this type of testing, sensors etc.
 
-## Technical Architecture : 
 
-![image](https://user-images.githubusercontent.com/96305967/192237739-876694f0-c23e-4ccb-8f38-a1d7d627809e.png)
-
-## PROJECT OVERVIEW
-![image](https://user-images.githubusercontent.com/96305967/192242066-924d8cd1-f1f0-4176-b6d1-4bb6224a586e.png)
 
 ### Tasks
 
